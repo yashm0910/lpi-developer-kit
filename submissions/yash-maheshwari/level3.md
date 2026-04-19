@@ -9,7 +9,7 @@ Github link - https://github.com/yashm0910/LPI-Agent
 
 ## What I Built
 
-I developed a **Digital Twin API Advisor Agent** that uses a dynamic **"Research-and-Summarize" workflow**. The agent performs **intent-based routing** to select the most relevant LPI tools, ensuring that advice is backed by real-world case studies and methodology-specific insights.
+I developed a **LPI API Advisor Agent** that uses a dynamic **"Research-and-Summarize" workflow**. The agent performs **intent-based routing** to select the most relevant LPI tools, ensuring that advice is backed by real-world case studies and methodology-specific insights.
 
 The primary goal was to create an agent capable of **multi-source reasoning** while maintaining a strict **provenance log** for total transparency.
 
